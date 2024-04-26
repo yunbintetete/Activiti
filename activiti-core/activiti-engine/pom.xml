@@ -199,56 +199,5 @@
     </dependency>
   </dependencies>
 
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-surefire-plugin</artifactId>
-        <configuration>
-          <excludes>
-            <exclude>**/*TestCase.java</exclude>
-            <exclude>**/RepeatingServiceTaskTest.java</exclude>
-          </excludes>
-          <runOrder>alphabetical</runOrder>
-        </configuration>
-      </plugin>
-      <plugin>
-        <groupId>com.mycila</groupId>
-        <artifactId>license-maven-plugin</artifactId>
-        <configuration>
-          <excludes>
-            <exclude>**/CronExpression.java</exclude>
-          </excludes>
-        </configuration>
-      </plugin>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-dependency-plugin</artifactId>
-        <version>3.6.1</version>
-        <executions>
-          <execution>
-            <id>resource-dependencies</id>
-            <phase>compile</phase>
-            <goals>
-              <goal>unpack</goal>
-            </goals>
-            <configuration>
-              <artifactItems>
-                <artifactItem>
-                  <groupId>org.activiti</groupId>
-                  <artifactId>activiti-engine</artifactId>
-                  <version>${activiti-engine.unpack.version}</version>
-                  <overWrite>true</overWrite>
-                  <outputDirectory>${project.build.directory}/activiti-engine</outputDirectory>
-                </artifactItem>
-              </artifactItems>
-              <includes>org/activiti/db/create/**</includes>
-              <outputDirectory>${project.build.directory}/activiti-engine</outputDirectory>
-            </configuration>
-          </execution>
-        </executions>
-      </plugin>
-    </plugins>
-  </build>
 
 </project>
