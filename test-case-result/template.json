@@ -1,0 +1,282 @@
+[
+  {
+    "caseId": "java_ut_eval_case#Activiti#0",
+    "methodDeclaration": {
+      "branchCount": 3,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 3,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/XMLTokener.java",
+      "lineCount": 17,
+      "methodFullName": "org.activiti.engine.impl.util.json.XMLTokener#nextCDATA#0",
+      "staticMethodCallCount": 7
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#1",
+    "methodDeclaration": {
+      "branchCount": 2,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 0,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/util/io/InputStreamSource.java",
+      "lineCount": 15,
+      "methodFullName": "org.activiti.engine.impl.util.io.InputStreamSource#getBytesFromInputStream#1",
+      "staticMethodCallCount": 3
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#2",
+    "methodDeclaration": {
+      "branchCount": 2,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 4,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/TaskEntityManagerImpl.java",
+      "lineCount": 10,
+      "methodFullName": "org.activiti.engine.impl.persistence.entity.TaskEntityManagerImpl#deleteTasksByProcessInstanceId#3",
+      "staticMethodCallCount": 11
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#3",
+    "methodDeclaration": {
+      "branchCount": 1,
+      "currentClassFieldMethodCallCount": 1,
+      "currentClassMethodCallCount": 2,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/deploy/ProcessDefinitionInfoCache.java",
+      "lineCount": 16,
+      "methodFullName": "org.activiti.engine.impl.persistence.deploy.ProcessDefinitionInfoCache#get#1",
+      "staticMethodCallCount": 2
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#4",
+    "methodDeclaration": {
+      "branchCount": 1,
+      "currentClassFieldMethodCallCount": 1,
+      "currentClassMethodCallCount": 2,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/TableDataManagerImpl.java",
+      "lineCount": 12,
+      "methodFullName": "org.activiti.engine.impl.persistence.entity.TableDataManagerImpl#getTableCount#0",
+      "staticMethodCallCount": 1
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#5",
+    "methodDeclaration": {
+      "branchCount": 1,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 0,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/TimerEventHandler.java",
+      "lineCount": 14,
+      "methodFullName": "org.activiti.engine.impl.jobexecutor.TimerEventHandler#setEndDateToConfiguration#2",
+      "staticMethodCallCount": 3
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#6",
+    "methodDeclaration": {
+      "branchCount": 2,
+      "currentClassFieldMethodCallCount": 1,
+      "currentClassMethodCallCount": 0,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/TransactionContextInterceptor.java",
+      "lineCount": 17,
+      "methodFullName": "org.activiti.engine.impl.interceptor.TransactionContextInterceptor#execute#2",
+      "staticMethodCallCount": 6
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#7",
+    "methodDeclaration": {
+      "branchCount": 1,
+      "currentClassFieldMethodCallCount": 1,
+      "currentClassMethodCallCount": 0,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricVariableInstanceEntityImpl.java",
+      "lineCount": 13,
+      "methodFullName": "org.activiti.engine.impl.persistence.entity.HistoricVariableInstanceEntityImpl#getPersistentState#0",
+      "staticMethodCallCount": 7
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#8",
+    "methodDeclaration": {
+      "branchCount": 3,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 2,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/history/DefaultHistoryManager.java",
+      "lineCount": 11,
+      "methodFullName": "org.activiti.engine.impl.history.DefaultHistoryManager#recordTaskAssignment#1",
+      "staticMethodCallCount": 3
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#9",
+    "methodDeclaration": {
+      "branchCount": 1,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 2,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/EventSubscriptionEntityManagerImpl.java",
+      "lineCount": 13,
+      "methodFullName": "org.activiti.engine.impl.persistence.entity.EventSubscriptionEntityManagerImpl#insertMessageEvent#2",
+      "staticMethodCallCount": 11
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#10",
+    "methodDeclaration": {
+      "branchCount": 4,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 3,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java",
+      "lineCount": 14,
+      "methodFullName": "org.activiti.engine.impl.cfg.ProcessEngineConfigurationImpl#initSessionFactories#0",
+      "staticMethodCallCount": 0
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#11",
+    "methodDeclaration": {
+      "branchCount": 3,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 1,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/cmd/GetExecutionVariableCmd.java",
+      "lineCount": 13,
+      "methodFullName": "org.activiti.engine.impl.cmd.GetExecutionVariableCmd#execute#1",
+      "staticMethodCallCount": 2
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#12",
+    "methodDeclaration": {
+      "branchCount": 3,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 1,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/cmd/DeleteHistoricProcessInstanceCmd.java",
+      "lineCount": 15,
+      "methodFullName": "org.activiti.engine.impl.cmd.DeleteHistoricProcessInstanceCmd#execute#1",
+      "staticMethodCallCount": 3
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#13",
+    "methodDeclaration": {
+      "branchCount": 10,
+      "currentClassFieldMethodCallCount": 7,
+      "currentClassMethodCallCount": 1,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java",
+      "lineCount": 48,
+      "methodFullName": "org.activiti.engine.impl.cfg.ProcessEngineConfigurationImpl#initConfigurators#0",
+      "staticMethodCallCount": 7
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#14",
+    "methodDeclaration": {
+      "branchCount": 1,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 1,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricVariableInstanceEntityManagerImpl.java",
+      "lineCount": 11,
+      "methodFullName": "org.activiti.engine.impl.persistence.entity.HistoricVariableInstanceEntityManagerImpl#copyVariableValue#2",
+      "staticMethodCallCount": 15
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#15",
+    "methodDeclaration": {
+      "branchCount": 4,
+      "currentClassFieldMethodCallCount": 2,
+      "currentClassMethodCallCount": 0,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/cmd/MoveJobToDeadLetterJobCmd.java",
+      "lineCount": 17,
+      "methodFullName": "org.activiti.engine.impl.cmd.MoveJobToDeadLetterJobCmd#execute#1",
+      "staticMethodCallCount": 7
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#16",
+    "methodDeclaration": {
+      "branchCount": 1,
+      "currentClassFieldMethodCallCount": 1,
+      "currentClassMethodCallCount": 0,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/test/TestHelper.java",
+      "lineCount": 10,
+      "methodFullName": "org.activiti.engine.impl.test.TestHelper#annotationDeploymentTearDown#4",
+      "staticMethodCallCount": 3
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#17",
+    "methodDeclaration": {
+      "branchCount": 3,
+      "currentClassFieldMethodCallCount": 3,
+      "currentClassMethodCallCount": 1,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/asyncexecutor/DefaultJobManager.java",
+      "lineCount": 13,
+      "methodFullName": "org.activiti.engine.impl.asyncexecutor.DefaultJobManager#moveJobToTimerJob#1",
+      "staticMethodCallCount": 3
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#18",
+    "methodDeclaration": {
+      "branchCount": 9,
+      "currentClassFieldMethodCallCount": 0,
+      "currentClassMethodCallCount": 0,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/behavior/BoundaryCompensateEventActivityBehavior.java",
+      "lineCount": 39,
+      "methodFullName": "org.activiti.engine.impl.bpmn.behavior.BoundaryCompensateEventActivityBehavior#execute#1",
+      "staticMethodCallCount": 18
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  },
+  {
+    "caseId": "java_ut_eval_case#Activiti#19",
+    "methodDeclaration": {
+      "branchCount": 4,
+      "currentClassFieldMethodCallCount": 4,
+      "currentClassMethodCallCount": 5,
+      "filePath": "/Users/leiyi.ly/IdeaProjects/Activiti/activiti-core/activiti-engine/src/main/java/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java",
+      "lineCount": 22,
+      "methodFullName": "org.activiti.engine.impl.cfg.ProcessEngineConfigurationImpl#initBpmnParser#0",
+      "staticMethodCallCount": 4
+    },
+    "prompt": "",
+    "testRepository": "/Users/leiyi.ly/IdeaProjects/Activiti"
+  }
+]
