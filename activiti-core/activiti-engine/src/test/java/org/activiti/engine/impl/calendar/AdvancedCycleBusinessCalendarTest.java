@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.activiti.standalone.calendar;
+package org.activiti.engine.impl.calendar;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -22,7 +22,6 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.TimeZone;
 
-import org.activiti.engine.impl.calendar.AdvancedCycleBusinessCalendar;
 import org.activiti.engine.impl.test.AbstractTestCase;
 import org.activiti.engine.impl.util.DefaultClockImpl;
 import org.activiti.engine.runtime.Clock;
