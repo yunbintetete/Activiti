@@ -115,11 +115,6 @@
       </dependency>
       <dependency>
         <groupId>org.activiti</groupId>
-        <artifactId>activiti-spring-conformance-tests</artifactId>
-        <version>${project.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>org.activiti</groupId>
         <artifactId>activiti-spring-conformance-util</artifactId>
         <version>${project.version}</version>
       </dependency>
